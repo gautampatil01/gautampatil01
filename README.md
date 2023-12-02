@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/gautampatil01?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@gautampatil282](https://medium.com/@gautampatil282)
+- 📝 I regularly write articles on [Medium](https://medium.com/@gautampatil282)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **gautampatil282@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ud3PkQJwHoRvBqzxcDsHMfLoG_LREfFJ/view?usp=sharing](https://drive.google.com/file/d/1ud3PkQJwHoRvBqzxcDsHMfLoG_LREfFJ/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1ud3PkQJwHoRvBqzxcDsHMfLoG_LREfFJ/view?usp=sharing)
 
 - ⚡ Fun fact **Achieving optimal productivity at a 3:2 coffee-to-code ratio.**
 
