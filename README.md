@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/gautampatil01/gautampatil01/blob/main/Aspiring1.png)]
+![MasterHead](https://github.com/gautampatil01/gautampatil01/blob/main/Aspiring1.png)
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
