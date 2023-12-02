@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Power BI, SQL, Machine Learning**
 
-- 👯 I’m Actively looking to collaborate on any Real Time Projects [https://www.linkedin.com/in/gautampatil2001/](https://www.linkedin.com/in/gautampatil2001/)
+- 👯 I’m Actively looking to [collaborate](https://www.linkedin.com/in/gautampatil2001/) on any Real Time Projects
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/gautampatil01?tab=repositories)
 
