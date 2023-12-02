@@ -10,7 +10,7 @@
 
 - 👯 I’m Actively looking to collaborate on any Real Time Projects [https://www.linkedin.com/in/gautampatil2001/](https://www.linkedin.com/in/gautampatil2001/)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gautampatil2001/](https://www.linkedin.com/in/gautampatil2001/)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/gautampatil01?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@gautampatil282](https://medium.com/@gautampatil282)
 
