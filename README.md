@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/gautampatil01/gautampatil01/blob/main/Aspiring1.png)](https://rishavchanda.io)
+https://github.com/gautampatil01/gautampatil01/blob/main/Aspiring1.png
 <h1 align="center">Hi 👋, I'm Gautam Patil</h1>
 <h3 align="center">An Aspiring Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
